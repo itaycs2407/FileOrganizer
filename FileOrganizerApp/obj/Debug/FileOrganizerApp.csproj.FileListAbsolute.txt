@@ -1,0 +1,7 @@
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerApp\bin\Debug\FileOrganizerApp.exe.config
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerApp\bin\Debug\FileOrganizerApp.exe
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerApp\bin\Debug\FileOrganizerApp.pdb
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerApp\obj\Debug\FileOrganizerApp.csprojAssemblyReference.cache
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerApp\obj\Debug\FileOrganizerApp.csproj.CoreCompileInputs.cache
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerApp\obj\Debug\FileOrganizerApp.exe
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerApp\obj\Debug\FileOrganizerApp.pdb

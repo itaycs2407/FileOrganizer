@@ -14,8 +14,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Controller m_engine = new Controller(@"C:\testFoleder");
+            Controller m_engine = new Controller(@"C:\ex2");
             m_engine.start();
+            Console.WriteLine("Done. Press any key to continue...");
             Console.ReadLine();
         }
     }
