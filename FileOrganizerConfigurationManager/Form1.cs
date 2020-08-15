@@ -109,5 +109,28 @@ namespace FileOrganizerConfigurationManager
         {
             this.Close();
         }
+
+        private void radioButton3_Click(object sender, EventArgs e)
+        {
+            radioButton4.Checked = !radioButton3.Checked;
+            changeEnableForServiceComponents(radioButton3.Checked);
+            changeEnableForManualComponents(!radioButton3.Checked);
+        }
+        private void radioButton4_Click(object sender, EventArgs e)
+        {
+            radioButton3.Checked = !radioButton4.Checked;
+            changeEnableForServiceComponents(!radioButton4.Checked);
+            changeEnableForManualComponents(radioButton4.Checked);
+        }
+
+        private void changeEnableForServiceComponents(bool i_Enable)
+        {
+           
+        }
+
+        private void changeEnableForManualComponents(bool i_Enable)
+        {
+                       
+        }
     }
 }
