@@ -1,0 +1,10 @@
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerConfigurationManager\bin\Debug\FileOrganizerConfigurationManager.exe.config
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerConfigurationManager\bin\Debug\FileOrganizerConfigurationManager.exe
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerConfigurationManager\bin\Debug\FileOrganizerConfigurationManager.pdb
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerConfigurationManager\obj\Debug\FileOrganizerConfigurationManager.csprojAssemblyReference.cache
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerConfigurationManager\obj\Debug\FileOrganizerConfigurationManager.Form1.resources
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerConfigurationManager\obj\Debug\FileOrganizerConfigurationManager.Properties.Resources.resources
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerConfigurationManager\obj\Debug\FileOrganizerConfigurationManager.csproj.GenerateResource.cache
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerConfigurationManager\obj\Debug\FileOrganizerConfigurationManager.csproj.CoreCompileInputs.cache
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerConfigurationManager\obj\Debug\FileOrganizerConfigurationManager.exe
+C:\Users\Itay Cohen\source\repos\FileOrganizer\FileOrganizerConfigurationManager\obj\Debug\FileOrganizerConfigurationManager.pdb

@@ -17,6 +17,8 @@ namespace FileOrganizerConfigurationManager
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+            Form1 frm = new Form1();
+         //   frm.ShowDialog();
         }
     }
 }
